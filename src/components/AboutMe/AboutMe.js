@@ -30,7 +30,7 @@ export default function AboutMe() {
                 It was a wonderful experience , not going to lie.
                 It was intense and you have to do a lot of research if you want to go deeper into the subject, but they did walk me through this path, and teach me how to become a developer.
                 As of right now I still have a long way to go.
-                But I am capable of building full stuck applications on my own and with the team. Currently i comfortable with React, JavaScript, React, Redux and many ather technologies, check out my projects  <a href="http://">My Projects </a>
+                But I am capable of building full stuck applications on my own and with the team. Currently i comfortable with React, JavaScript, React, Redux and many ather technologies, check out my projects  <a href="/projects">My Projects </a>
                  </p>
         </div>
     )

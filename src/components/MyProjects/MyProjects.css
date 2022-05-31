@@ -23,7 +23,7 @@
 .box-prj {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+  
     align-items: center;
     margin: 1vw;
     padding: 10px;
