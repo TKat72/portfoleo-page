@@ -1,0 +1,42 @@
+.img-boss {
+    height: 300px;
+    box-shadow: rgba(239, 235, 235, 0.926) 0px 4px 12px;
+
+}
+
+.my-prj {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 4vw 5vw;
+    justify-content: space-around;
+
+}
+
+.text-eraia {
+    height: 400px;
+    width: 500px;
+    padding: 10px;
+}
+
+.box-prj {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1vw;
+    padding: 10px;
+}
+
+.box-prj:hover {
+
+    box-shadow: rgba(239, 235, 235, 0.926) 0px 4px 12px;
+}
+
+.link-prj {
+    color: white;
+    text-decoration: none;
+}
+.boss{
+    width: 500px;
+}

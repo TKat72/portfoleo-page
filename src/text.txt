@@ -1,0 +1,28 @@
+ <div className="App">
+      <header className="App-header">
+
+
+
+      </header>
+      <h1>
+        Kateryna Tsymbal
+      </h1>
+      <img className="img-prof" src={me} ></img>
+      <h2> Software Engineer</h2>
+      <div>
+        <h3>Skills</h3>
+        <p>Flask, Python, SQLAlchemy, Alembic, JavaScript, jQuery, React,React.js, Redux, SQL, Git, HTML5, CSS3, HTML, CSS, PostgreSQL, AWS, Pug.js, Git, GitHub, Heroku, Docker, Express, Express.js, Postgres, Postman, Sequelize
+        </p>
+        <h3>About me </h3>
+        <p> Hello there.
+          Let me tell you little bit about myself. I am Ukrainian , and ever things high shool
+
+        </p>
+        <h3>Projects</h3>
+
+        <div> <a href="https://github.com/">Meme-Owerflow</a>   <a href="https://github.com/"> Git </a></div>
+        <div> <a href="https://github.com/">Give-In</a> <a href="https://github.com/"> Git </a> </div>
+        <div> <a href="https://github.com/">Boss-Shots</a> <a href="https://github.com/"> Git </a> </div>
+        <div><a href="https://github.com/">ArtStagram</a> <a href="https://github.com/"> Git </a></div>
+      </div>
+    </div>
