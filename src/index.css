@@ -19,6 +19,8 @@ code {
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: black;
+  text-shadow: 1px 1px #0a9211f4;
+    letter-spacing: 4px;
 }
 
 .navbar {
@@ -26,10 +28,21 @@ body {
   flex-direction: row;
   justify-content: flex-end;
   align-items: space-between;
+  box-shadow: rgba(43, 79, 36, 0.65) 0px 10px 10px -1px, rgba(53, 201, 42, 0.925) 0px 1px 10px -1px;
+  padding: 10px;
 }
 
 .nav-bar-inside {
   display: flex;
-  width:30vw;
+  width: 30vw;
   justify-content: space-between;
+}
+
+.naw-link:hover {
+  padding: 5px;
+  color: rgba(222, 183, 7, 0.828);
+  background-color: #166d3b;
+  background-image: linear-gradient(147deg, #166d3b 0%, #000000 74%);
+  font-size: large;
+
 }

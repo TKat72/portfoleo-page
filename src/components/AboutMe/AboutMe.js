@@ -7,7 +7,7 @@ export default function AboutMe() {
     return (
         <div className="AboutMe">
             <img src={me} className="img" ></img>
-            <h1>Kateryna Tsymbal</h1>
+            <h1 className="name">Kateryna Tsymbal</h1>
             <p className="p-about-me">Hello there.<br></br>
                 If you came across this portfolio, you are probably looking for a developer, and you are in the right place.<br></br>
                 Before I tell you about my work, let me tell you my story.
