@@ -20,3 +20,16 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: black;
 }
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: space-between;
+}
+
+.nav-bar-inside {
+  display: flex;
+  width:30vw;
+  justify-content: space-between;
+}
