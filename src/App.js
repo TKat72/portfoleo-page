@@ -1,4 +1,4 @@
-import me from './me.png'
+
 import React from 'react'
 import AboutMe from './components/AboutMe/AboutMe'
 import MyProjects from './components/MyProjects/MyProjects'
